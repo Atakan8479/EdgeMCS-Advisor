@@ -1,0 +1,6 @@
+{
+  "accuracy": 0.99427895048333,
+  "macro_f1": 0.962182082965953,
+  "n_rows": 5069,
+  "dataset_path": "/Users/atakanozcan/FinalCompiledData_02022023.csv"
+}

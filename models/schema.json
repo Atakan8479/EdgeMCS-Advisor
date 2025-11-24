@@ -1,0 +1,31 @@
+{
+  "features": {
+    "numeric": [
+      "Num_Carriers",
+      "SINR",
+      "RB",
+      "TH_CWD0",
+      "TH_CWD1",
+      "TRANS",
+      "RANK",
+      "BLER",
+      "CQI_CWD0",
+      "CQI_CWD1",
+      "TH_SUM",
+      "CQI_MEAN"
+    ],
+    "categorical": [
+      "Network Type",
+      "Band",
+      "ANT",
+      "MCS_CWD1"
+    ]
+  },
+  "target": "MCS_CWD0",
+  "classes": [
+    "16QAM",
+    "256QAM",
+    "64QAM",
+    "QPSK"
+  ]
+}
